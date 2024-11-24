@@ -96,7 +96,7 @@ mvn spring-boot:run
 After the application is up and running, open your browser and navigate to:
 
 ```
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger/index.html
 ```
 
 This will display the Swagger UI where you can view and interact with the REST APIs.
